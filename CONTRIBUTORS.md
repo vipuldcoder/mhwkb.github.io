@@ -5,7 +5,7 @@ GitHub's automated list: [graphs/contributors](https://github.com/andy5995/mhwkb
 ## Contributors and Roles
 | Name        | Roles
 | :-----------: | ----------------------------------|
-| [Andy Alt](https://github.com/mhwkb/mhwkb.github.io/README.md#about-andy-alt-project-owner) | Project Maintainer |
+| [Andy Alt](https://github.com/mhwkb/mhwkb.github.io#about-andy-alt-project-owner) | Project Maintainer |
 | [dafky2000](https://github.com/dafky2000) | C |
 | [erichoog](https://github.com/erichoog) | HTML, CSS, bash |
 | [Tord](https://sunyatazero.github.io/) | Consultant, KB |
