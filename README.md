@@ -1,5 +1,6 @@
 # mhwKB
-Mental Health and Wellness Knowledge Base
+Mental Health and Wellness Knowledge Base<br />
+https://mhwkb.github.io/
 
 ## Project and site updates
 For now, we're using generic GitHub RSS feeds<br />
