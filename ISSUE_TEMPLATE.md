@@ -1,5 +1,6 @@
-To suggest a link for the Knowledge Base, please fill out the form below.<br />
-(if filing an issue, press `<CTRL-a>`, followed by a backspace)
+To suggest a link for the Knowledge Base, please fill add a title above,<br />
+and fill out the form below.<br />
+(if filing a regular issue, press `<CTRL-a>`, followed by a backspace)
 
 Link title: 
 
