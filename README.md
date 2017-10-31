@@ -1,5 +1,6 @@
 # mhwKB
-Mental Health and Wellness Knowledge Base
+Mental Health and Wellness Knowledge Base<br />
+https://mhwkb.github.io/
 
 ## Project and site updates
 For now, we're using generic GitHub RSS feeds<br />
@@ -54,6 +55,12 @@ negative and positive experiences consumers have had while using the mental
 health care system. I have also read information written by journalists and
 doctors. I have no formal education in biology, medicine, psychiatry, or
 psychology.
+
+In 1981, when I was eight years old, my father committed suicide. In 2005, I wrote 
+[Damned Tears](https://medium.com/@andy011973/when-i-was-8-years-old-in-1981-my-father-committed-suicide-55b5865fffe3)
+during a healing episode. Many people have told me how much they like it and one father
+even told me it reminded him to stay alive for his children. I sometimes have posted
+in places where suicide prevention is discussed.
 
 ## Contributing to the KB
 * [Contributing](CONTRIBUTING.md)
