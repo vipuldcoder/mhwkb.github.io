@@ -27,6 +27,10 @@ Do we need a mailing list for updates?
   * the potential for a more open discussion related to how the mental health
   care system could be improved
 
+## Suggest a link or add one through a pull request
+* [Link template](https://github.com/mhwkb/mhwkb.github.io/issues/new?title=Link%20suggestion%20-)
+* [Open Ticket](https://github.com/mhwkb/mhwkb.github.io/issues/11)
+
 ## Disclaimer
 The content on the web sites linked to from the knowledge base has been
 written by doctors, consumers, and a wide variety of people who have had
