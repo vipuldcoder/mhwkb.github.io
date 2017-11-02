@@ -28,8 +28,8 @@ Do we need a mailing list for updates?
   care system could be improved
 
 ## Suggest a link or add one through a pull request
-* [Link template](https://github.com/mhwkb/mhwkb.github.io/issues/new?title=Link%20suggestion%20-)
-* [Open Ticket](https://github.com/mhwkb/mhwkb.github.io/issues/11)
+* [Link template](https://github.com/mhwkb/mhwkb.github.io/issues/new?title=Link%20suggestion%20-) (type the details into a ticket)
+* [Open Ticket](https://github.com/mhwkb/mhwkb.github.io/issues/11) (PR)
 
 ## Disclaimer
 The content on the web sites linked to from the knowledge base has been
