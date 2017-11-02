@@ -21,12 +21,9 @@ Jekyll locally but they did not function as intended on
 if anything to your github project, What else or how else could others
 maybe help with it? (apart from code or content)**
 
-*A:* General feedback about from a user's perspective. And for those who
-don't have time to edit the .md files and submit pull requests: there's
-[a ticket where links can just be pasted in](https://github.com/andy5995/mhwkb/issues/27).
-All that's required is a GitHub account for that. I also have an email
-address displayed on the README for those who don't have a GitHub
-account and choose not to get one.
+*A:* General feedback from a user's perspective. And for those who
+don't have time to edit the .md files and submit pull requests: links can be suggested
+[using tickets](https://github.com/mhwkb/mhwkb.github.io/issues/new?title=Link%20suggestion%20-).
 
 Anyone is also welcome to join the [chat in the Slack Workspace](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI).
 There are different channels set up for development, help using git,
