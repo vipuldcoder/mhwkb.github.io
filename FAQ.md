@@ -1,5 +1,22 @@
 # FAQ
 
+**Q: How often is the web site updated?**
+
+A: There is no set schedule yet, but that may change. Right now I'll say
+every 1 - 3 days.
+
+When new posts are added, or html code is changed, the actual web site
+does not get automatically updated. We use [Jekyll](https://jekyllrb.com/)
+to manually generate the site, then copy the static pages to the server.
+The more frequently posts get added or code gets changed, the more
+frequently the web site will be updated.
+
+**Q: Why do you manually update**
+
+A: During testing, some of the Jekyll plugins worked perfectly when running
+Jekyll locally but they did not function as intended on
+[GitHub Pages](https://pages.github.com/).
+
 **Q: While, I'm probably not really knowledgeable enough to contribute much
 if anything to your github project, What else or how else could others
 maybe help with it? (apart from code or content)**
