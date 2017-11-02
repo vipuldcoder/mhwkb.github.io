@@ -18,7 +18,7 @@ class Jekyll
         values["date"] = date
       else
         puts "#{field}?"
-        field == "tags" ? values[field] = [gets.chomp] : values[field] = gets.chomp
+        values[field] = field == "tags" ?  [gets.chomp] : gets.chomp
       end
     end
   end
