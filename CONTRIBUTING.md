@@ -65,5 +65,5 @@ repo with mine (remote upstream). GitHub has instructions for doing this:
 
 ## CSS design (we use Bootstrap)
 If you haven't ever used Bootstrap or any CSS framework -
-* [Boostrap: Getting Started](https://getbootstrap.com/docs/3.3/getting-started/)
+* [Boostrap css](https://getbootstrap.com/docs/3.3/css/)
 * [w3schools: Bootstrap Intro](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
