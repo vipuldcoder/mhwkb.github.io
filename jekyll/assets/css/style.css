@@ -103,9 +103,9 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
 
 	
 .tag {
-  background: #eee;
+  background: #739900;
   border-radius: 3px 0 0 3px;
-  color: #999;
+  color: #333333;
   display: inline-block;
   height: 26px;
   line-height: 26px;
@@ -131,7 +131,7 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
 .tag::after {
   background: #fff;
   border-bottom: 13px solid transparent;
-  border-left: 10px solid #eee;
+  border-left: 10px solid #739900;
   border-top: 13px solid transparent;
   content: '';
   position: absolute;
@@ -147,6 +147,7 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
 .tag:hover::after {
    border-left-color: crimson; 
 }
+
 
 #tag:hover {
 	text-decoration: none;

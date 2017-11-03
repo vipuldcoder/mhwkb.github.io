@@ -6,7 +6,7 @@
     <div class="panel-body">
 
             {% for tag in post.tags %}
-                <a id="tag" style="margin-top: 0; margin-bottom: 0; font-size: 15px;" class="tag" href="{{ site.url }}/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a>
+                <b><a id="tag" style="margin-top: 0; margin-bottom: 0; font-size: 15px;" class="tag" href="{{ site.url }}/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a></b>
             {% endfor %}
     </div>
 </div>
