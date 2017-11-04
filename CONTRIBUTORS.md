@@ -1,6 +1,6 @@
 # Contributors
-GitHub's automated list: (former repo) [graphs/contributors](https://github.com/andy5995/mhwkb/graphs/contributors)
-GitHub's automated list: [graphs/contributors](https://github.com/andy5995/mhwkb/graphs/contributors)
+GitHub's automated list: (former repo) [graphs/contributors](https://github.com/andy5995/mhwkb/graphs/contributors) && 
+(current repo) [graphs/contributors](https://github.com/andy5995/mhwkb/graphs/contributors)
 
 ## Contributors and Roles
 | Name        | Roles
