@@ -37,8 +37,8 @@ rvm can install most of the packages mentioned.
     * Windows: https://cygwin.com/index.html (Other methods? Please edit this section)
     * Mac : (Please edit this section)
 1. Install rvm | https://rvm.io/rvm/install
+3. Close and re-open the terminal window (this will update your PATH so rvm can be found)
 2. Update rvm | run `rvm get stable --autolibs=enable`
-3. Close and re-open the terminal window
 4. run `rvm install ruby`
 5. Check that Ruby has been updated by running `ruby -v`
 6. Update the gem manager by running gem update --system.
