@@ -22,9 +22,9 @@ I started inviting people.
 ## The Present (a.k.a. About)
 I do not contribute to every project listed on the group page. The
 maintainers of the projects have no affiliation with me or the projects I own,
-nor do they necessarily any of the projects I maintain. I sometimes sync
-with the repos owned by other project maintainers, and as a result, the
-fork moves to the top of the group page.
+nor do they necessarily endorse or contribute to any of the projects I maintain.
+I sometimes sync with the repos owned by other project maintainers, and as a result,
+the fork moves to the top of the group page.
 
 There are no requirements to be a member. If you would like to request an
 invitation to join, please
