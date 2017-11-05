@@ -34,6 +34,10 @@ The group page is a statement and a show of support. If it helps
 attract contributors or end-users to my project, or to the other projects
 listed, then I believe it serves a worthwhile purpose.
 
+If you are a member, it is suggested that in your [group settings](https://github.com/orgs/mhwkb/people), to make your membership
+public (it's private by default). That means you will show up on the group page as
+a member, and the group avatar and link will appear on your profile.
+
 If you would like your mental health project forked to the group, please
 send me the GitHub project URL. If you would like my fork of your project
 removed, please let me know.
