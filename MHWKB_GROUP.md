@@ -41,3 +41,5 @@ a member, and the group avatar and link will appear on your profile.
 If you would like your mental health project forked to the group, please
 send me the GitHub project URL. If you would like my fork of your project
 removed, please let me know.
+
+### [About me](https://github.com/mhwkb/mhwkb.github.io#about-andy-alt-project-owner)
