@@ -46,6 +46,7 @@ table, input, textarea, select {
 *********************************************/
 body {
 	background: #FFFFFF;
+	background-image: url("/images/mhwkb_bg_96x96_03.gif");
 }
 
 /*********************************************
@@ -101,7 +102,7 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
 	margin: 0;
 }
 
-	
+
 .tag {
   background: #ffd966;
   border-radius: 3px 0 0 3px;
@@ -145,7 +146,7 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
 }
 
 .tag:hover::after {
-   border-left-color: crimson; 
+   border-left-color: crimson;
 }
 
 
