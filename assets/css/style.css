@@ -46,11 +46,11 @@ a img {
 }
 
 .box600 {
-	width: 1000px;
+	width: 60%;
 	border: 1px solid black;
 	position: relative;
 	left: 50%;
-	margin-left: -500px;
+	margin-left: -30%;
 	padding: 10px;
 }
 
