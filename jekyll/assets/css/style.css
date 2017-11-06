@@ -27,6 +27,32 @@ a img {
 	margin: 0;
 }
 
+.plaintext {
+	font-size: 18px;
+	font-family: arial;
+}
+
+.plaintext a:link {
+	color: #232c47;
+	border-style: solid;
+	border-color: #aeaeae;
+	border-width: 0px 0px 4px 0px;
+}
+
+.plaintext a:link:hover {
+	color: #232c47;
+	border-color: #aeaeae;
+	border-width: 4px 0px 0px 0px;
+}
+
+.box600 {
+	width: 1000px;
+	border: 1px solid black;
+	position: relative;
+	left: 50%;
+	margin-left: -500px;
+	padding: 10px;
+}
 
 /*********************************************
 	Constrain table and input widths
@@ -54,7 +80,7 @@ body {
 *********************************************/
 
 a {
-	color: #990000;
+	color: #232c47;
 	-webkit-transition: all .1s ease-in;
 	-moz-transition: all .1s ease-in;
 	-o-transition: all .1s ease-in;
