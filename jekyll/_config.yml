@@ -46,6 +46,10 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+  pagination:
+  trail:
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
