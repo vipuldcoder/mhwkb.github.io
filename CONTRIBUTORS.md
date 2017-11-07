@@ -19,5 +19,6 @@ GitHub's automated list: (former repo) [graphs/contributors](https://github.com/
 | [nikje94](https://github.com/nikje94) | |
 | [lauragift21](https://github.com/lauragift21) | |
 | [nealkarpe](https://github.com/nealkarpe) | HTML, CSS |
+| [sonro](https://github.com/sonro) | MD |
 | | |
 
