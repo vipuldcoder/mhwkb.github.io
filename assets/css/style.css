@@ -54,6 +54,12 @@ a img {
 	padding: 10px;
 }
 
+.linklist {
+	font-size: 16px;
+	font-family: liberation-mono;
+	font-weight: bold;
+}
+
 /*********************************************
 	Constrain table and input widths
 *********************************************/
