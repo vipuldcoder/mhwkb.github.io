@@ -41,7 +41,7 @@ permalink: pretty
 # Pagination Settings
 pagination:
   enabled: true
-  per_page: 20
+  per_page: 15
   permalink: '/page/:num/'
   limit: 0
   sort_field: 'date'
