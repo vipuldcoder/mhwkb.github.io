@@ -14,7 +14,18 @@ with the work you want to do.**
 ## Communication
   * [Chat (Slack Workspace)](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
   * [Create or Discuss Issues](https://github.com/mhwkb/mhwkb.github.io/issues)
-  
+
+## CSS and html design
+
+* [Testing your CSS and HTML changes](https://github.com/mhwkb/mhwkb.github.io/blob/master/TESTING.md)
+
+We use Bootstrap, and also a
+[local style.css](https://github.com/mhwkb/mhwkb.github.io/blob/master/jekyll/assets/css/style.css) that can be used and edited.
+
+If you haven't ever used Bootstrap or any CSS framework -
+* [Boostrap css](https://getbootstrap.com/docs/3.3/css/)
+* [w3schools: Bootstrap Intro](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
+
 ## Code formatting
 Indent of 4 spaces in HTML
 
@@ -31,13 +42,6 @@ implied. If the links is more broadly about the military, then it's okay to
 use "military" and "veterans".
 * If you're not sure what tags to use, don't spend any time worrying about it. Ask in the
   chat room or make a comment when you submit your pull request.
-
-## Dates
-No longer used, in the process of removing (October 23, 2017)
-
-## Note to those with Collaborator access
-* Don't push directly to the remote upstream. Make the changes on your fork
-and submit a PR.
 
 ## Pull Requests
 1. Fork the repo (if you haven't already done so)
@@ -62,8 +66,3 @@ repo with mine (remote upstream). GitHub has instructions for doing this:
     * For step 3 on that page, use https://github.com/mhwkb/mhwkb.github.io for the URL.
 2. [Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
     * On that page, it shows how to merge the **master** branch (steps 4 & 5 of **Syncing a Fork**).
-
-## CSS design (we use Bootstrap)
-If you haven't ever used Bootstrap or any CSS framework -
-* [Boostrap css](https://getbootstrap.com/docs/3.3/css/)
-* [w3schools: Bootstrap Intro](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)

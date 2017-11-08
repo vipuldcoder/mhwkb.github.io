@@ -9,7 +9,19 @@ For now, we're using generic GitHub RSS feeds<br />
   [![RSS](images/rss_23x23.jpeg)](https://github.com/mhwkb/mhwkb/commits/master.atom)
   [GitHub Project updates](https://github.com/mhwkb/mhwkb.github.io/commits/master.atom)
 
-Do we need a mailing list for updates?
+## Do we need a mailing list for updates?
+I think our
+[Slack chat workspace](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
+is a good alternative. A user can join and leave at anytime, and will get
+notified by email if there are any global announcements or if they are
+@pinged.
+
+When I use the _@channel_ command in chat, that notifies everyone (unless
+a user has turned that setting off). I don't use _@channel_ very often, so
+email traffic from the workspace will be kept low.
+
+But I'm open to feedback about whether or not an email list is desired.
+
 
 ## Goals
 * [increase awareness](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21689&LangID=E)
@@ -60,7 +72,7 @@ health care system. I have also read information written by journalists and
 doctors. I have no formal education in biology, medicine, psychiatry, or
 psychology.
 
-In 1981, when I was eight years old, my father committed suicide. In 2005, I wrote 
+In 1981, when I was eight years old, my father committed suicide. In 2005, I wrote
 [_Damned Tears_](http://ifyouregoingthoughhellkeepgoing.blogspot.com/2009/01/friend-writes-of-his-fathers-suicide.html)
 during a healing episode. Many people have told me how much they like it and one father
 even told me it reminded him to stay alive for his children. I sometimes have posted
@@ -68,6 +80,7 @@ in places where suicide prevention is discussed.
 
 ## Contributing to the KB
 * [Contributing](CONTRIBUTING.md)
+* [Testing your CSS and HTML changes](https://github.com/mhwkb/mhwkb.github.io/blob/master/TESTING.md)
 * [List of Contributors](CONTRIBUTORS.md) (Please add your name if you
 have contributed)
 
