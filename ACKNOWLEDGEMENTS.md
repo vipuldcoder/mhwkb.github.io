@@ -13,5 +13,5 @@
 [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2)
 Jekyll pagination plugin
 
-[jekyll-tagging](pattex/jekyll-tagging)
+[jekyll-tagging](https://github.com/pattex/jekyll-tagging)
 Jekyll tag pages plugin
