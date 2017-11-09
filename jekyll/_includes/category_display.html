@@ -7,7 +7,7 @@
         {% endfor %}
       {% else %}
         {% for category in categories_list %}
-            <a class="label label-danger" href="{{ site.url }}/category/{{ category[0] }}">{{ category[0] }}</a>
+            <a class="label label-danger" href="{{ site.url }}/category/{{ category[0] }}/">{{ category[0] }}</a>
         {% endfor %}
       {% endif %}
     {% assign categories_list = nil %}
