@@ -43,3 +43,25 @@ send me the GitHub project URL. If you would like my fork of your project
 removed, please let me know.
 
 ### [About me](https://github.com/mhwkb/mhwkb.github.io#about-andy-alt-project-owner)
+### [Git Profile](https://github.com/andy5995)
+
+## Promote your project
+With single pull request, you can get your project listed here:<br />
+[Up-For-Grabs](http://up-for-grabs.net/)
+
+Label a ticket "first-timers-only", and it will appear at:<br >
+https://twitter.com/first_tmrs_only?lang=en<br />
+(may take a few minutes for it to display)
+
+That bot's project page is at:<br />
+https://github.com/musically-ut/first-timers-only-bot
+
+Code for Social Good<br >
+web site: https://app.code4socialgood.org/<br />
+https://github.com/Code4SocialGood/c4sg-web
+
+A directory of open source projects:<br />
+https://www.openhub.net/
+
+Psych Central resource directory
+https://psychcentral.com/resources/
