@@ -1,5 +1,5 @@
 # mhwKB
-Mental Health and Wellness Knowledge Base<br />
+Mental Health Knowledge Base<br />
 https://mhwkb.github.io/
 
 ## Project and site updates
@@ -51,7 +51,7 @@ Among other things, the information on this site and external web sites and
 blogs consists of opinions or personal stories - and as such, treated like any
 other opinions or stories you may hear or read about on any subject.
 
-I (Andy Alt), nor the contributors of the _Mental Health and Wellness Knowledge Base_,
+I (Andy Alt), nor the contributors of the _Mental Health Knowledge Base_,
 necessarily endorse, believe, or agree with, the views presented by the various
 sites to which the Knowledge Base links.
 
