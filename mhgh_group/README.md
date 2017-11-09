@@ -1,6 +1,6 @@
 # Mental Health GitHub Group
 
-https://github.com/mhwkb
+[Main Group Site](https://github.com/mhwkb)
 
 ## History
 I originally created the mhwkb GitHub organization so I would have access
@@ -46,6 +46,10 @@ removed, please let me know.
 ### [Git Profile](https://github.com/andy5995)
 
 ## Promote your project
+
+A resource page I host
+[Mental Health GitHub Projects](https://github.com/mhwkb/mhwkb.github.io/mhgh_group/mental_health_github_projects.md)
+
 With single pull request, you can get your project listed here:<br />
 [Up-For-Grabs](http://up-for-grabs.net/)
 
