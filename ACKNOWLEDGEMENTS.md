@@ -5,7 +5,7 @@
 Used to generate the web site before jekyll was implemented<br />
 [simplectemplate](https://github.com/dafky2000/simplectemplate)
 
-[jekyllpostgen](https://github.com/andy5995/jekyllpostgen)
+[jekyllpostgen](https://github.com/erichoog/jekyllpostgen)
 
 [jekyll_post_generator](https://github.com/luiemilio/jekyll_post_generator)
 
