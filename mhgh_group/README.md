@@ -43,12 +43,12 @@ send me the GitHub project URL. If you would like my fork of your project
 removed, please let me know.
 
 ### [About me](https://github.com/mhwkb/mhwkb.github.io#about-andy-alt-project-owner)
-### [Git Profile](https://github.com/andy5995)
+### [My GitHub Profile](https://github.com/andy5995)
 
 ## Promote your project
 
-A resource page I host
-[Mental Health GitHub Projects](https://github.com/mhwkb/mhwkb.github.io/mhgh_group/mental_health_github_projects.md)
+A resource page I host<br />
+[Mental Health GitHub Projects](https://github.com/mhwkb/mhwkb.github.io/blob/master/mhgh_group/mental_health_github_projects.md)
 
 With single pull request, you can get your project listed here:<br />
 [Up-For-Grabs](http://up-for-grabs.net/)
