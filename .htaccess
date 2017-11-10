@@ -5,5 +5,6 @@ Redirect 301 /music_therapy.html  https://mhwkb.github.io/books.html https://mhw
 Redirect 301 /government.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/government/
 Redirect 301 /USA.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/USA/
 Redirect 301 /veterans.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/veterans/
-
-
+Redirect 301 /personal_stories.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/personal-stories/
+Redirect 301 /suicide.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/suicide/
+Redirect 301 /suicide_prevention.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/suicide-prevention/
