@@ -8,3 +8,4 @@ Redirect 301 /veterans.html  https://mhwkb.github.io/books.html https://mhwkb.gi
 Redirect 301 /personal_stories.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/personal-stories/
 Redirect 301 /suicide.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/suicide/
 Redirect 301 /suicide_prevention.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/suicide-prevention/
+Redirect 301 /blogs.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/blogs/
