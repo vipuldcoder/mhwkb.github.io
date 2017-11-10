@@ -14,7 +14,7 @@ Open source app to share mental health experiences with loved ones
 Information and resources to support mental wellness
 
 ### [ocdaction](https://github.com/womenhackfornonprofits/ocdaction)<br />
-OCD Action App - A collaborative, youth­led project aiming to make use of
+OCD Action App - A collaborative, youth-led project aiming to make use of
 digital technology to provide mental health support to children & adolescents
 suffering with anxiety.
 
