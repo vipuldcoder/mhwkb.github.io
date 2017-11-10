@@ -27,7 +27,7 @@ If you haven't ever used Bootstrap or any CSS framework -
 * [w3schools: Bootstrap Intro](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
 
 ## Code formatting
-Indent of 4 spaces in HTML
+Indent of ***2*** spaces in HTML based on [W3 Schools HTML5 style guide](https://www.w3schools.com/htmL/html5_syntax.asp)
 
 ## Tags
 * tags should be specific
