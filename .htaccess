@@ -1,0 +1,9 @@
+Redirect 301 /books.html https://mhwkb.github.io/tag/books/
+Redirect 301 /news.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/news/
+Redirect 301 /doctors.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/doctors/
+Redirect 301 /music_therapy.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/music-therapy/
+Redirect 301 /government.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/government/
+Redirect 301 /USA.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/USA/
+Redirect 301 /veterans.html  https://mhwkb.github.io/books.html https://mhwkb.github.io/tag/veterans/
+
+
