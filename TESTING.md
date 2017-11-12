@@ -45,7 +45,7 @@ rvm can install most of the packages mentioned.
 2. You'll need `gcc` and `make` installed on your system to build the gems.
     * Linux : those can often be installed by installing the `build-essential` package.
     * Windows: https://cygwin.com/index.html (Other methods? Please edit this section)
-    * Mac : (Please edit this section)
+    * Mac : xcode-select --install
 3. Install rvm | https://rvm.io/rvm/install
 4. Close and re-open the terminal window (this will update your PATH so rvm can be found)
 5. Update rvm | run `rvm get stable --autolibs=enable`
