@@ -1,5 +1,5 @@
 # Contributors
-GitHub's automated list: (former repo) [graphs/contributors](https://github.com/andy5995/mhwkb/graphs/contributors) && 
+GitHub's automated list: (former repo) [graphs/contributors](https://github.com/andy5995/mhwkb/graphs/contributors) &&
 (current repo) [graphs/contributors](https://github.com/andy5995/mhwkb/graphs/contributors)
 
 ## Contributors and Roles
@@ -21,5 +21,6 @@ GitHub's automated list: (former repo) [graphs/contributors](https://github.com/
 | [nealkarpe](https://github.com/nealkarpe) | HTML, CSS |
 | [sonro](https://github.com/sonro) | MD |
 | [khipukamayuq](https://github.com/khipukamayuq) |  |
+| [Martijn de Boer](https://github.com/sexybiggetje) |  |
 | | |
 
