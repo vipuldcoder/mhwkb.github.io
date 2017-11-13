@@ -79,7 +79,7 @@ table, input, textarea, select {
 	Main Background
 *********************************************/
 body {
-	background: #FFFFFF;
+	background: #f3f3f3;
 	background-image: url("/images/mhwkb_bg_96x96_03.gif");
 }
 
@@ -197,4 +197,36 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
 }
 .btn-custom:hover, .btn-custom:focus, .btn-custom:active, .btn-custom.active, .open > .dropdown-toggle.btn-custom {
     background: #67717a;
+}
+
+/* Fixes for searchbox */
+#search-container {
+  display: block;
+}
+
+#results-container {
+	position:absolute;
+	left:50%;
+	transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+}
+
+#results-container,
+#results-container li {
+  max-width: 460px;
+  width: calc(100% - 20px);
+}
+
+#results-container li a {
+  white-space: normal;
+}
+
+#results-container li.no-results-text {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: 400;
+  line-height: 1.42857143;
+  color: #333;
+  white-space: normal;
 }

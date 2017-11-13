@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Ervaringswijzer",
+      "category" : "",
+      "tags"     : "zelfhulp, herstel, Nieuws",
+      "url"      : "/nl/2017/11/12/ervaringswijzer/",
+      "date"     : "2017-11-12 12:43:53 -0600"
+    } ,
+  
+    {
       "title"    : "Disabled Veterans National Foundation Resources",
       "category" : "",
       "tags"     : "directory, veterans, USA",
@@ -315,7 +323,7 @@
     {
       "title"    : "Mindfulness at the Computer",
       "category" : "",
-      "tags"     : "FOSS, python, Qt, self-care, mindfulness, breathing, notifier",
+      "tags"     : "GitHub, python, Qt, self-care, mindfulness, breathing, notifier",
       "url"      : "/en/2017/11/03/Mindfulness_at_the_Computer/",
       "date"     : "2017-11-03 19:52:24 -0500"
     } ,
@@ -395,7 +403,7 @@
     {
       "title"    : "selfcare.tech",
       "category" : "",
-      "tags"     : "self-care, collaborative, resources, directory, technology, education",
+      "tags"     : "GitHub, self-care, collaborative, resources, directory, technology, education",
       "url"      : "/en/2017/11/02/selfcare.tech/",
       "date"     : "2017-11-02 13:14:26 -0500"
     } ,
