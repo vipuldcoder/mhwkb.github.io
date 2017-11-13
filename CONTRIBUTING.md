@@ -17,14 +17,8 @@ with the work you want to do.**
 
 ## CSS and html design
 
-* [Testing your CSS and HTML changes](https://github.com/mhwkb/mhwkb.github.io/blob/master/TESTING.md)
-
-We use Bootstrap, and also a
-[local style.css](https://github.com/mhwkb/mhwkb.github.io/blob/master/jekyll/assets/css/style.css) that can be used and edited.
-
-If you haven't ever used Bootstrap or any CSS framework -
-* [Boostrap css](https://getbootstrap.com/docs/3.3/css/)
-* [w3schools: Bootstrap Intro](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
+* [See the design info page](DESIGN.md)
+* [Testing your CSS and HTML changes](TESTING.md)
 
 ## Code formatting
 Indent of ***2*** spaces in HTML based on [W3 Schools HTML5 style guide](https://www.w3schools.com/htmL/html5_syntax.asp)
