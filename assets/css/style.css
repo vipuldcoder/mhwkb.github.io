@@ -1,139 +1,139 @@
 /*********************************************
-	Default font settings and typography.
+  Default font settings and typography.
 *********************************************/
 html {
-	font-size: 100%;
+  font-size: 100%;
 }
 body {
-	color: #323848;
+  color: #323848;
         font-family: Arial, Helvetica, sans-serif;
-	font-size: 1em;
-	line-height: 1.2;
+  font-size: 1em;
+  line-height: 1.2;
 }
 input, select, textarea {
-	font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 pre, code, tt, kbd {
-	font-family: 'andale mono', 'lucida console', monospace;
-	font-size: 1em;
-	line-height: 1.5;
+  font-family: 'andale mono', 'lucida console', monospace;
+  font-size: 1em;
+  line-height: 1.5;
 }
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 address, dfn, img, samp, ul, ol, dl {
-	margin-top: 1.5em;
-	margin-bottom: 1.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 a img {
-	margin: 0;
+  margin: 0;
 }
 
 .plaintext {
-	font-size: 18px;
-	font-family: arial;
+  font-size: 18px;
+  font-family: arial;
 }
 
 .plaintext a:link {
-	color: #232c47;
-	border-style: solid;
-	border-color: #aeaeae;
-	border-width: 0px 0px 4px 0px;
+  color: #232c47;
+  border-style: solid;
+  border-color: #aeaeae;
+  border-width: 0px 0px 4px 0px;
 }
 
 .plaintext a:link:hover {
-	color: #232c47;
-	border-style: solid;
-	border-color: #aeaeae;
-	border-width: 4px 0px 4px 0px;
-	text-decoration: none;
+  color: #232c47;
+  border-style: solid;
+  border-color: #aeaeae;
+  border-width: 4px 0px 4px 0px;
+  text-decoration: none;
 }
 
 .box600 {
-	width: 100%;
-	border: 1px solid black;
-	position: relative;
-	left: 50%;
-	margin-left: -50%;
-	padding: 10px;
+  width: 100%;
+  border: 1px solid black;
+  position: relative;
+  left: 50%;
+  margin-left: -50%;
+  padding: 10px;
 }
 
 .linklist {
-	font-size: 16px;
-	font-family: liberation-mono;
-	font-weight: bold;
+  font-size: 16px;
+  font-family: liberation-mono;
+  font-weight: bold;
 }
 
 /*********************************************
-	Constrain table and input widths
+  Constrain table and input widths
 *********************************************/
 table, input, textarea, select {
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	-ms-box-sizing: border-box;
-	box-sizing: border-box;
-	height: auto;
-	max-width: 100%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  height: auto;
+  max-width: 100%;
 }
 
 
 /*********************************************
-	Main Background
+  Main Background
 *********************************************/
 body {
-	background: #f3f3f3;
-	background-image: url("/images/mhwkb_bg_96x96_03.gif");
+  background: #f3f3f3;
+  background-image: url("/images/mhwkb_bg_96x96_03.gif");
 }
 
 /*********************************************
-	Universal Link Styles
+  Universal Link Styles
 *********************************************/
 
 a {
-	color: #232c47;
-	-webkit-transition: all .1s ease-in;
-	-moz-transition: all .1s ease-in;
-	-o-transition: all .1s ease-in;
-	-ms-transition: all .1s ease-in;
-	transition: all .1s ease-in;
+  color: #232c47;
+  -webkit-transition: all .1s ease-in;
+  -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -ms-transition: all .1s ease-in;
+  transition: all .1s ease-in;
 }
 a:hover {
-	color: #555C6F;
-	text-decoration: underline;
+  color: #555C6F;
+  text-decoration: underline;
 }
 a:focus {
-	color: #555C6F;
+  color: #555C6F;
 }
 
 
 /*********************************************
-	Headings
+  Headings
 *********************************************/
 h1, h2, h3, h4, h5, h6 {
-	font-weight: bold;
-	line-height: 1.2;
-	margin-top: 0;
-	margin-bottom: 20px;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-top: 0;
+  margin-bottom: 20px;
 }
 h1 {
-	font-size: 2em;
+  font-size: 2em;
 }
 h2 {
-	font-size: 1.5em;
+  font-size: 1.5em;
         color: #921b0c;
 }
 h3 {
-	font-size: 1.35em;
+  font-size: 1.35em;
 }
 h4 {
-	font-size: 1.25em;
+  font-size: 1.25em;
 }
 h5 {
-	font-size: 1.125em;
+  font-size: 1.125em;
 }
 h6 {
-	font-size: 1em;
+  font-size: 1em;
 }
 h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
-	margin: 0;
+  margin: 0;
 }
 
 
@@ -185,15 +185,15 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
 
 
 #tag:hover {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 .dropdown{
     display: inline;
 }
 .btn-custom {
-	color: #ffffff;
-	background: #232c47;
+  color: #ffffff;
+  background: #232c47;
 }
 .btn-custom:hover, .btn-custom:focus, .btn-custom:active, .btn-custom.active, .open > .dropdown-toggle.btn-custom {
     background: #67717a;
@@ -205,10 +205,10 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
 }
 
 #results-container {
-	position:absolute;
-	left:50%;
-	transform: translateX(-50%);
-	-webkit-transform: translateX(-50%);
+  position:absolute;
+  left:50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
 }
 
 #results-container,
