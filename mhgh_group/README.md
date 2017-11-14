@@ -6,7 +6,7 @@
 I originally created the mhwkb GitHub organization so I would have access
 to the mhwkb.github.io web address.
 
-(Note: see [GitHub Pages](https://pages.github.com/)for general information regarding web sites hosted by GitHub)
+(Note: see [GitHub Pages](https://pages.github.com/) for general information regarding web sites hosted by GitHub)
 
 ## Evolution
 Late one night, I realized I could list other mental health projects on
