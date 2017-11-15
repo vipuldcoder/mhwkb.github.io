@@ -7,3 +7,15 @@ function checkSearchValAndDropdown() {
     $("#search-container").removeClass('open'); 
   }
 }
+
+// FOR LANGUAGE DROPDOWN CHANGE DETECTION
+$(document).ready(function(){
+  $('.bfh-selectbox').on('change.bfhselectbox', function () {
+    var lang = $(this).val();
+    if (lang == "en_US") document.location.href = "/category/EN";
+    else if (lang == "de_DE") document.location.href = "/category/DE";
+    else if (lang == "hi_IN") document.location.href = "/category/HI";
+    else if (lang == "nl_NL") document.location.href = "/category/NL";
+    else if (lang == "sv_SE") document.location.href = "/category/SV";
+  });
+});
