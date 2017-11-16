@@ -20,6 +20,7 @@
   <link rel="stylesheet" href="https://mhwkb.github.io/assets/css/font-awesome.min.css">
   <!-- style.css reference   -->
   <link rel="stylesheet" href="https://mhwkb.github.io/assets/css/style.css">
+  <link rel="stylesheet" href="https://mhwkb.github.io/assets/css/bootstrap-formhelpers.css">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -47,6 +48,11 @@
         </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
+          <li>
+              <div class="navbar-btn bfh-selectbox bfh-languages" data-language="en_US" 
+                data-available="en_US,de_DE,hi_IN,nl_NL,sv_SE" data-flags="true" data-blank="false">
+              </div>
+          </li>
           <li><a href="https://mhwkb.github.io"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home</a></li>
           <li><a href="https://github.com/mhwkb/mhwkb.github.io#mhwkb"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> About</a></li>
           <li><a href="https://mhwkb.github.io/feed.xml"><i class="fa fa-rss"></i> RSS</a></li>
@@ -206,13 +212,24 @@
             </div>
           </div>
         </td>
-        <td style="width: 65%; vertical-align: text-top;">
-        <div class="row">
-          <h3 style="color: #dbcd5b; background-color: black; padding: 6px">&nbsp;</h3>
-        </div>
+        <td style="width: 30%; vertical-align: text-top;">
+          <div class="row">
+            <h3 style="color: #dbcd5b; background-color: black; padding: 6px">&nbsp;</h3>
+          </div>
+        </td>
+        <td style="width: 35%; vertical-align: text-top;">
+          <div class="row">
+            <h3 style="color: #dbcd5b; background-color: black; padding: 6px">Permalinks</h3>
+            <ul class="list-unstyled clear-margins linklist">
+              <li><a href="https://psychcentral.com/"><span class="glyphicon glyphicon-link"></span> Psych Central</a></li>
+              <li><a href="https://www.fda.gov/Safety/MedWatch/"><span class="glyphicon glyphicon-link"></span> FDA MedWatch</a></li>
+              <li><a href="https://osmihelp.org/"><span class="glyphicon glyphicon-link"></span> Open Sourcing Mental Illness</a></li>
+            </ul>
+          </div>
         </td>
       </tr>
     </table>
+    <p>This site was last updated on 2017-11-16 13:23:14 -0600</p>
   </div>
   <script src="/assets/js/simple-jekyll-search.js" type="text/javascript"></script>
   <script type="text/javascript">
@@ -247,6 +264,7 @@
     });
   </script>
   <script src="https://mhwkb.github.io/assets/js/mhwkb-scripts.js"></script>
+  <script src="https://mhwkb.github.io/assets/js/bootstrap-formhelpers.js"></script>
 </footer>
 
   </body>
