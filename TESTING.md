@@ -1,42 +1,52 @@
 # TESTING
 
 This document helps explain how to edit html and CSS on the web site, and
-optionally, how to setup Jekyll to test your code.
+how to setup jekyll to test your code changes.
 
 This is an early draft and is more likely to contain errors or omissions.
 Please edit if you find any problems, and
-[contact us](https://github.com/mhwkb/mhwkb.github.io#contact) if you need help.
-
+[contact us](https://github.com/mhwkb/mhwkb.github.io#contact)
+if you need help.
 
 ## Testing the site
 
 To edit the html files where the site is generated, those are located in
 
-[_includes](https://github.com/mhwkb/mhwkb.github.io/tree/master/jekyll/_includes) and [_layouts](https://github.com/mhwkb/mhwkb.github.io/tree/master/jekyll/_layouts)
+[_includes](https://github.com/mhwkb/mhwkb.github.io/tree/master/jekyll/_includes)
+and
+[_layouts](https://github.com/mhwkb/mhwkb.github.io/tree/master/jekyll/_layouts)
 
-If you're working on the html or [CSS](https://github.com/mhwkb/mhwkb.github.io/blob/master/CONTRIBUTING.md#css-design-we-use-bootstrap), in some cases you'll want to test your changes.
+If you're working on the html or
+[CSS](https://github.com/mhwkb/mhwkb.github.io/blob/master/CONTRIBUTING.md#css-and-html-design),
+in some cases you'll want to test your changes.
 
-The CSS file is also under the Jekyll directory:
-https://github.com/mhwkb/mhwkb.github.io/tree/master/jekyll/assets/css
+The CSS file is also under the jekyll directory:
+[jekyll/assets/css](https://github.com/mhwkb/mhwkb.github.io/tree/master/jekyll/assets/css)
 
 Note: Don't edit the CSS file in the root directory (it will get overwritten
-by the one under the Jekyll directory)
+by the one under the jekyll directory)
 
-## We use [Jekyll](https://jekyllrb.com/) to generate the site.
+## We use [jekyll](https://jekyllrb.com/) to generate the site.
 
-Because we use Jekyll for this project you don't need to commit any changes to files that are outside of the jekyll directory (unless the site is being built/updated for production).
+Because we use jekyll for this project you don't need to commit any changes to
+files that are outside of the jekyll directory (unless the site is being
+built/updated for production).
 
 Basically the current workflow is something like:
 
   * Make changes in the **/jekyll** directory
-  * Run/build the site to test the changes with `bundle exec jekyll serve --watch`(read step #13 below). This builds and serves the site from under **jekyll/_site**, everything under that directory gets ignored with the .gitignore file.
-  * Then commit those changes if you are happy with them, excluding anything in the root directory.
+  * Run/build the site to test the changes with `bin/run-jekyll`
+  (read step #13 below). This builds and serves the site from under
+  **jekyll/_site**, everything under that directory gets ignored with the
+  .gitignore file.
+  * Then commit those changes if you are happy with them, excluding anything
+  in the root directory.
 
-Follow these instructions to get set up with [Jekyll](https://jekyllrb.com/):
+Follow these instructions to get set up with [jekyll](https://jekyllrb.com/):
 
 1. Fork the repo
 
-Note the [Jekyll requirements](https://jekyllrb.com/docs/installation/#requirements)
+Note the [jekyll requirements](https://jekyllrb.com/docs/installation/#requirements)
 
 To install some of what's listed on their page, you may find it easier to follow these steps:
 
@@ -54,10 +64,11 @@ rvm can install most of the packages mentioned.
 8. Update the gem manager by running `gem update --system`
 9. Update your gems by running `gem update`
 10. If you are missing bundler, please install it `gem install bundler`
-11. Install Jekyll | `gem install jekyll`
+11. Install jekyll | `gem install jekyll`
 12. From inside the mhwkb.github.io **jekyll** directory, run `bundle install`
-13. To start the Jekyll server | `bundle exec jekyll serve --watch`
+13. To start the Jekyll server | `bin/run-jekyll`
 
-Periodically you will need to run `bundle install` in the **jekyll** directory to update the gems (you'll receive errors when you start the Jekyll server).
+Periodically you will need to run `bundle install` in the **jekyll** directory
+to update the gems (you'll receive errors when you start the jekyll server).
 
 In your browser, go to http://localhost:4000 and you should see the mhwkb.github.io web site.
