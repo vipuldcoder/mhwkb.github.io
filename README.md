@@ -2,27 +2,6 @@
 Mental Health Knowledge Base<br />
 https://mhwkb.github.io/
 
-## Project and site updates
-For now, we're using generic GitHub RSS feeds<br />
-  [![RSS](images/rss_23x23.jpeg)](https://github.com/mhwkb/mhwkb.github.io/commits/master.atom)
-  [Web site updates](https://mhwkb.github.io/feed.xml)<br />
-  [![RSS](images/rss_23x23.jpeg)](https://github.com/mhwkb/mhwkb/commits/master.atom)
-  [GitHub Project updates](https://github.com/mhwkb/mhwkb.github.io/commits/master.atom)
-
-## Do we need a mailing list for updates?
-I think our
-[Slack chat workspace](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
-is a good alternative. A user can join and leave at anytime, and will get
-notified by email if there are any global announcements or if they are
-@pinged.
-
-When I use the _@channel_ command in chat, that notifies everyone (unless
-a user has turned that setting off). I don't use _@channel_ very often, so
-email traffic from the workspace will be kept low.
-
-But I'm open to feedback about whether or not an email list is desired.
-
-
 ## Goals
 * [increase awareness](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21689&LangID=E)
 * Web site should be low-maintenance
@@ -42,6 +21,25 @@ But I'm open to feedback about whether or not an email list is desired.
 ## Suggest a link or add one through a pull request
 * [Link template](https://github.com/mhwkb/mhwkb.github.io/issues/new?title=Link%20suggestion%20-) (type the details into a ticket)
 * [Open Ticket](https://github.com/mhwkb/mhwkb.github.io/issues/11) (PR)
+
+## Project and site updates
+  [![RSS](images/rss_23x23.jpeg)](https://github.com/mhwkb/mhwkb.github.io/commits/master.atom)
+  [Web site updates](https://mhwkb.github.io/feed.xml)<br />
+  [![RSS](images/rss_23x23.jpeg)](https://github.com/mhwkb/mhwkb/commits/master.atom)
+  [GitHub Project updates](https://github.com/mhwkb/mhwkb.github.io/commits/master.atom)
+
+### Do we need a mailing list for updates?
+I think our
+[Slack chat workspace](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
+is a good alternative. A user can join and leave at anytime, and will get
+notified by email if there are any global announcements or if they are
+@pinged.
+
+When I use the _@channel_ command in chat, that notifies everyone (unless
+a user has turned that setting off). I don't use _@channel_ very often, so
+email traffic from the workspace will be kept low.
+
+But I'm open to feedback about whether or not an email list is desired.
 
 ## Disclaimer
 The content on the web sites linked to from the knowledge base has been
