@@ -27,8 +27,9 @@ I sometimes sync with the repos owned by other project maintainers, and as a res
 the fork moves to the top of the group page.
 
 There are no requirements to be a member. If you would like to request an
-invitation to join, please
-[contact](https://github.com/mhwkb/mhwkb.github.io#contact) me.
+invitation to join, please use this link:<br />
+[https://github.com/orgs/mhwkb/teams/mental-health-github-group](https://github.com/orgs/mhwkb/teams/mental-health-github-group)<br />
+or my [contact information](https://github.com/mhwkb/mhwkb.github.io#contact).
 
 The group page is a statement and a show of support. If it helps
 attract contributors or end-users to my project, or to the other projects
