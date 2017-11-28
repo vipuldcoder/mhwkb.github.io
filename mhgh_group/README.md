@@ -39,6 +39,8 @@ If you are a member, it is suggested that in your [group settings](https://githu
 public (it's private by default). That means you will show up on the group page as
 a member, and the group avatar and link will appear on your profile.
 
+Additionally, you can allow for discussion using GitHub's "team" feature. Simply navigate to [https://github.com/orgs/mhwkb/teams/mental-health-github-group](https://github.com/orgs/mhwkb/teams/mental-health-github-group) and requesting membership.
+
 If you would like your mental health project forked to the group, please
 send me the GitHub project URL. If you would like my fork of your project
 removed, please let me know.
