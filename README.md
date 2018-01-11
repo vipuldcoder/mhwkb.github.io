@@ -6,7 +6,8 @@ https://mhwkb.github.io/
 * [increase awareness](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21689&LangID=E)
 * Web site should be low-maintenance
   * no logins necessary, all changes to site will be submitted through the
-  GitHub project page
+  GitHub project page, but feedback and link suggestions and be sent by email
+  and through a form on the web site.
   * links to external web sites added should have relatively fast load times,
   not be bogged down fetching hotlinked images, etc.
 * To accumulate a wide variety of links related to mental health and wellness
@@ -87,6 +88,5 @@ have contributed)
 
 ## Contact
 * Andy Alt (andy400-dev@yahoo.com)
-* Request membership to the [KB team](https://github.com/orgs/mhwkb/teams/kb)
 * [Chat (Slack Workspace)](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
 * [Issues](https://github.com/mhwkb/mhwkb.github.io/issues)
