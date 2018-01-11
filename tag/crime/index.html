@@ -20,6 +20,7 @@
   <link rel="stylesheet" href="https://mhwkb.github.io/assets/css/font-awesome.min.css">
   <!-- style.css reference   -->
   <link rel="stylesheet" href="https://mhwkb.github.io/assets/css/style.css">
+  <link rel="stylesheet" href="https://mhwkb.github.io/assets/css/bootstrap-formhelpers.css">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -47,6 +48,11 @@
         </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
+          <li>
+              <div class="navbar-btn bfh-selectbox bfh-languages" data-language="de_DE"
+                data-available="de_DE,en_US,hi_IN,ne_NP,nl_NL,pt_BR,sv_SE" data-flags="true" data-blank="false">
+              </div>
+          </li>
           <li><a href="https://mhwkb.github.io/tag_cloud/"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Tag cloud</a></li>
           <li><a href="https://mhwkb.github.io"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home</a></li>
           <li><a href="https://github.com/mhwkb/mhwkb.github.io#mhwkb"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> About</a></li>
@@ -58,7 +64,8 @@
   <div class="container">
     <div class="text-center">
       <h1><img src="https://mhwkb.github.io/images/mhwkb_dharma_wheel_logo_180x170.png" alt="mhwKB wheel of Dharma logo" width="180" height="170">Mental Health Knowledge Base</h1>
-      <div class="text-center">
+      <!-- disabled after nav dropdown: https://github.com/mhwkb/mhwkb.github.io/pull/102
+<div class="text-center">
   <h2>
   
     
@@ -81,6 +88,7 @@
   
   </h2>
 </div>
+-->
 
     </div>
   </div>
@@ -203,6 +211,7 @@
     });
   </script>
   <script src="https://mhwkb.github.io/assets/js/mhwkb-scripts.js"></script>
+  <script src="https://mhwkb.github.io/assets/js/bootstrap-formhelpers.js"></script>
 </footer>
 
   </body>
