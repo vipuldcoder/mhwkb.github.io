@@ -253,30 +253,12 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
   height: 1.25rem;
 }
 
-.footer-tbl {
-  width: 100%;
-  margin-left: 
-  auto; 
-  margin-right: auto;
-}
-
 .footer-heading {
-  color: #dbcd5b;
-  background-color: black;
-  padding: 6px
+  padding-top: 1.25rem;
 }
 
-.footer-left-col {
-  width: 35%;
-  vertical-align: text-top;
+.footer-buttons {
+  padding-top: 1.25rem;
 }
 
-.footer-center-col {
-  width: 30%;
-  vertical-align: text-top;
-}
 
-.footer-right-col {
-  width: 35%;
-  vertical-align: text-top;
-}
