@@ -27,11 +27,10 @@ github_username:  andy5995
 
 # Build settings
 markdown: kramdown
-# theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
-  - jekyll/tagging
 
 tag_page_layout: tag
 tag_page_dir: tag
@@ -50,6 +49,28 @@ pagination:
   trail:
     before: 2 # The number of links before the current page
     after: 2  # The number of links after the current page
+
+############################################################
+# Site configuration for the Auto-Pages feature
+# The values here represent the defaults if nothing is set
+autopages:
+  # Site-wide kill switch, disable here and it doesn't run at all 
+  enabled: true
+
+  tags:
+    enabled: true
+    layouts: 
+      - 'autopage_tags.html'
+    title: ':tag' # :tag is replaced by the tag name
+    permalink: '/tag/:tag'
+
+  categories:
+    enabled: false 
+
+  collections:
+    enabled: false
+# Auto-pages config END
+############################################################
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
